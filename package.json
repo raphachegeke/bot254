@@ -26,6 +26,7 @@
     "cheerio": "^1.0.0-rc.12",
     "cookie": "^0.5.0",
     "dotenv": "^16.4.5",
+    "express": "^4.19.2",
     "events": "^3.3.0",
     "file-type": "^16.5.4",
     "fluent-ffmpeg": "^2.1.3",
